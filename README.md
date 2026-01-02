@@ -1,4 +1,4 @@
-# My Simple Form Plugin
+# Custom Inquiry Form Plugin
 
 ## Description
 A simple inquiry form plugin that saves data to a database with CSS example. Allows admin to mark inputs as complete. Grid layout.
